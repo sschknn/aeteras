@@ -1,0 +1,6 @@
+{
+  "name": "Antiquitäten-Scannerkasse",
+  "description": "Scanne Antiquitäten mit Kamera oder Bild-Upload, klassifiziere Epoche & Herkunft mit AI/Vision und erhalte Marktpreise & Angebote.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
